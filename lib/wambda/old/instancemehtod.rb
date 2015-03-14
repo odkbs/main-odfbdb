@@ -1,0 +1,2 @@
+class InstanceMethod < Instance
+end
